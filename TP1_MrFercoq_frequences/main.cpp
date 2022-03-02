@@ -245,7 +245,7 @@ class Reseau
                 }
             }
 
-            std::cout << std::endl << "Il y a " << compteur << " couleurs dans cette coloration" << std::endl;
+            std::cout << std::endl << "Il y a " << compteur << " couleurs dans cette coloration naive" << std::endl;
         }
 
 
@@ -299,7 +299,7 @@ class Reseau
                 }
             }
 
-            std::cout << std::endl << "Il y a " << compteur << " couleurs dans cette coloration" << std::endl;
+            std::cout << std::endl << "Il y a " << compteur << " couleurs dans cette coloration de Welsh Powell" << std::endl;
         }
         /// ************* FIN CODE ETUDIANT *************
 
